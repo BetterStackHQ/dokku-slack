@@ -5,7 +5,7 @@ A Slack notifier for Dokku
 
 ```sh
 # dokku 0.4+
-$ dokku plugin:install https://github.com/mspanc/dokku-slack.git
+$ dokku plugin:install https://github.com/wallmine/dokku-slack.git
 ```
 
 ## Commands
