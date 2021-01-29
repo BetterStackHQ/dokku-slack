@@ -41,7 +41,7 @@ slack_payload() {
   cat <<JSON
 {
   "username": "Deploy: ${app}@${hostname}",
-  "icon_emoji": ":thumbsup_all:",
+  "icon_emoji": ":sunny:",
   "text": "Deployed succesfully"
 }
 JSON
